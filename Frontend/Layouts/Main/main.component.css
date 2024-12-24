@@ -1,6 +1,10 @@
 /* Red class */
 
 h1 {
-    color: red;
+    color: white;
     margin: 25% 50%;
+}
+
+html {
+    background-color: black;
 }
